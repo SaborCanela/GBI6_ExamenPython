@@ -16,3 +16,4 @@
 | RAM utilizable  7,88 GB |
 | Identificador de dispositivo  A2FF5553-A8EB-4B01-BC8E-3444112381CE |
 
+![rcomplement](img/cuadro_de_flujo.png)
