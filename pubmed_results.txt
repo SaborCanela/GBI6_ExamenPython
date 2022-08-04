@@ -1,0 +1,805 @@
+
+PMID- 35214969
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220301
+IS  - 2079-4991 (Print)
+IS  - 2079-4991 (Linking)
+VI  - 12
+IP  - 4
+DP  - 2022 Feb 14
+TI  - Gadolinium and Polythiophene Functionalized Polyurea Polymer Dots as
+      Fluoro-Magnetic Nanoprobes.
+LID - 642 [pii]
+LID - 10.3390/nano12040642 [doi]
+AB  - A rapid and one-pot synthesis of poly 3-thiopheneacetic acid (PTAA)
+      functionalized polyurea polymer dots (Pdots) using polyethyleneimine and
+      isophorone diisocyanate is reported. The one-pot mini-emulsion polymerization
+      technique yielded Pdots with an average diameter of ~20 nm. The size, shape, and 
+      concentration of the surface functional groups could be controlled by altering
+      the synthesis parameters such as ultrasonication time, concentration of the
+      surfactant, and crosslinking agent, and the types of isocyanates utilized for the
+      synthesis. Colloidal properties of Pdots were characterized using dynamic light
+      scattering and zeta potential measurements. The spherical geometry of Pdots was
+      confirmed by scanning electron microscopy. The Pdots were post-functionalized by 
+      1,4,7,10 tetraazacyclododecane-1,4,7,10-tetraacetic acid for chelating gadolinium
+      nanoparticles (Gd(3+)) that provide magnetic properties to the Pdots. Thus, the
+      synthesized Pdots possess fluorescent and magnetic properties, imparted by PTAA
+      and Gd(3+), respectively. Fluorescence spectroscopy and microscopy revealed that 
+      the synthesized dual-functional Gd(3+)-Pdots exhibited detectable fluorescent
+      signals even at lower concentrations. Magnetic levitation experiments indicated
+      that the Gd(3+)-Pdots could be easily manipulated via an external magnetic field.
+      These findings illustrate that the dua- functional Gd(3+)-Pdots could be
+      potentially utilized as fluorescent reporters that can be magnetically
+      manipulated for bioimaging applications.
+FAU - Karabacak, Soner
+AU  - Karabacak S
+AUID- ORCID: 0000-0002-3147-8627
+AD  - Department of Chemistry, Izmir Institute of Technology, Urla 35430, Izmir,
+      Turkey.
+FAU - Palaniappan, Alagappan
+AU  - Palaniappan A
+AUID- ORCID: 0000-0002-2599-8466
+AD  - School of Materials Science and Engineering, Nanyang Technological University,
+      Singapore 639798, Singapore.
+FAU - Tony, Tsang Siu Hon
+AU  - Tony TSH
+AD  - Temasek Laboratories@NTU, 50 Nanyang Avenue, Singapore 639798, Singapore.
+FAU - Edwin, Teo Hang Tong
+AU  - Edwin THT
+AD  - School of Materials Science and Engineering, Nanyang Technological University,
+      Singapore 639798, Singapore.
+AD  - School of Electrical and Electronic Engineering, Nanyang Technological
+      University, Singapore 639798, Singapore.
+FAU - Gulyas, Balazs
+AU  - Gulyas B
+AD  - Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore
+      636921, Singapore.
+AD  - Cognitive Neuroimaging Centre, Nanyang Technological University, 59 Nanyang
+      Drive, Singapore 636921, Singapore.
+AD  - Department of Clinical Neuroscience, Karolinska Institute, 17176 Stockholm,
+      Sweden.
+FAU - Padmanabhan, Parasuraman
+AU  - Padmanabhan P
+AUID- ORCID: 0000-0003-4112-4600
+AD  - Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore
+      636921, Singapore.
+AD  - Cognitive Neuroimaging Centre, Nanyang Technological University, 59 Nanyang
+      Drive, Singapore 636921, Singapore.
+FAU - Yildiz, Umit Hakan
+AU  - Yildiz UH
+AD  - Department of Chemistry, Izmir Institute of Technology, Urla 35430, Izmir,
+      Turkey.
+AD  - Department of Polymer Science and Engineering, Izmir Institute of Technology,
+      Urla 35430, Izmir, Turkey.
+AD  - Denge Kimya, Velimese Industrial Region St. Ergene, Corlu 59860, Tekirdag,
+      Turkey.
+LA  - eng
+GR  - TUBITAK Projects 116Z547 and 120Z588/The Scientific and Technological Research
+      Council of Turkey
+PT  - Journal Article
+DEP - 20220214
+PL  - Switzerland
+TA  - Nanomaterials (Basel)
+JT  - Nanomaterials (Basel, Switzerland)
+JID - 101610216
+PMC - PMC8875818
+OTO - NOTNLM
+OT  - PTAA
+OT  - bioimaging
+OT  - dual-functional reporters
+OT  - fluorescent reporters
+OT  - magnetic manipulation
+OT  - mini-emulsion polymerization
+OT  - polymer dots
+OT  - polyurea Pdots
+EDAT- 2022/02/27 06:00
+MHDA- 2022/02/27 06:01
+CRDT- 2022/02/26 01:04
+PHST- 2021/12/19 00:00 [received]
+PHST- 2022/01/31 00:00 [revised]
+PHST- 2022/02/05 00:00 [accepted]
+PHST- 2022/02/26 01:04 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/02/27 06:01 [medline]
+AID - nano12040642 [pii]
+AID - 10.3390/nano12040642 [doi]
+PST - epublish
+SO  - Nanomaterials (Basel). 2022 Feb 14;12(4). pii: nano12040642. doi:
+      10.3390/nano12040642.
+
+PMID- 34859160
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220428
+IS  - 2410-8219 (Electronic)
+IS  - 0379-6175 (Linking)
+VI  - 77
+IP  - 2
+DP  - 2021
+TI  - The reliability of the augmented Lehnert-Schroth and Rigo classification in
+      scoliosis management.
+PG  - 1568
+LID - 10.4102/sajp.v77i2.1568 [doi]
+AB  - BACKGROUND: In pattern-specific scoliosis exercises and bracing, the corrective
+      treatment plan differs according to different curve patterns. There are a limited
+      number of studies investigating the reliability of the commonly used
+      classifications systems. OBJECTIVE: To test the reliability of the augmented
+      Lehnert-Schroth (ALS) classification and the Rigo classification. METHODS: X-rays
+      and posterior photographs of 45 patients with scoliosis were sent by the first
+      author to three clinicians twice at 1-week intervals. The clinicians classified
+      images according to the ALS and Rigo classifications, and the data were analysed 
+      using SPSS V-16. Intraclass correlation coefficients (ICCs) and standard error
+      measurement (SEM) were calculated to evaluate the inter- and intra-observer
+      reliability. RESULTS: The inter-observer ICC values were 0.552 (ALS), 0.452
+      (Rigo) for X-ray images and 0.494 (ALS), 0.518 (Rigo) for the photographs. The
+      average intra-observer ICC value was 0.720 (ALS), 0.581 (Rigo) for the X-ray
+      images and 0.726 (ALS) and 0.467 (Rigo) for the photographs. CONCLUSIONS: The
+      results of our study indicate moderate inter-observer reliability for X-ray
+      images using the ALS classification and clinical photographs using the Rigo
+      classification. Intra-observer reliability was moderate to good for X-ray images 
+      and clinical photographs using the ALS classification and poor to moderate for
+      X-ray and clinical photographs using the Rigo classification. CLINICAL
+      IMPLICATIONS: Pattern classifications assist in creating a plan and indication of
+      correction in specific scoliosis physiotherapy and pattern-specific brace
+      applications and surgical treatment. More sub-types are needed to address the
+      individual patterns of curvature. The optimisation of curve classification will
+      likely reduce failures in diagnosis and treatment.
+CI  - (c) 2021. The Authors.
+FAU - Akcay, Burcin
+AU  - Akcay B
+AUID- ORCID: https://orcid.org/0000-0002-0883-0311
+AD  - Department of Physiotherapy and Rehabilitation, Faculty of Healthy Sciences,
+      Bandirma Onyedi Eylul University, Balikesir, Turkey.
+FAU - Colak, Tugba Kuru
+AU  - Colak TK
+AUID- ORCID: https://orcid.org/0000-0002-3263-2278
+AD  - Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences,
+      Marmara University, Istanbul, Turkey.
+FAU - Apti, Adnan
+AU  - Apti A
+AUID- ORCID: https://orcid.org/0000-0002-6072-2916
+AD  - Department of Physiotherapy and Rehabilitation, Faculty of Healthy Sciences,
+      Istanbul Kultur University, Istanbul, Turkey.
+FAU - Colak, Ilker
+AU  - Colak I
+AUID- ORCID: https://orcid.org/0000-0003-2960-2825
+AD  - Department of Orthopaedics and Traumatology, Kartal Dr. Lutfi Kirdar Education
+      and Research Hospital, Istanbul, Turkey.
+FAU - Kiziltas, Onder
+AU  - Kiziltas O
+AUID- ORCID: https://orcid.org/0000-0002-8362-6214
+AD  - Department of Orthotics and prosthetics, Denge Ortopedi, Istanbul, Turkey.
+LA  - eng
+PT  - Journal Article
+DEP - 20211102
+PL  - South Africa
+TA  - S Afr J Physiother
+JT  - The South African journal of physiotherapy
+JID - 9816433
+PMC - PMC8603105
+OTO - NOTNLM
+OT  - Rigo classification
+OT  - augmented Lehnert-Schroth classification
+OT  - conservative treatment
+OT  - reliability
+OT  - scoliosis
+COIS- The authors declare that they have no financial or personal relationships that
+      may have inappropriately influenced them in writing this article.
+EDAT- 2021/12/04 06:00
+MHDA- 2021/12/04 06:01
+CRDT- 2021/12/03 07:10
+PHST- 2021/03/09 00:00 [received]
+PHST- 2021/09/01 00:00 [accepted]
+PHST- 2021/12/03 07:10 [entrez]
+PHST- 2021/12/04 06:00 [pubmed]
+PHST- 2021/12/04 06:01 [medline]
+AID - 10.4102/sajp.v77i2.1568 [doi]
+AID - SAJP-77-1568 [pii]
+PST - epublish
+SO  - S Afr J Physiother. 2021 Nov 2;77(2):1568. doi: 10.4102/sajp.v77i2.1568.
+      eCollection 2021.
+
+PMID- 34209060
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220518
+IS  - 2076-2607 (Print)
+IS  - 2076-2607 (Linking)
+VI  - 9
+IP  - 7
+DP  - 2021 Jun 30
+TI  - Ticks and Tick-Borne Pathogens Associated with Dromedary Camels (Camelus
+      dromedarius) in Northern Kenya.
+LID - 1414 [pii]
+LID - 10.3390/microorganisms9071414 [doi]
+AB  - Ticks and tick-borne pathogens (TBPs) are major constraints to camel health and
+      production, yet epidemiological data on their diversity and impact on dromedary
+      camels remain limited. We surveyed the diversity of ticks and TBPs associated
+      with camels and co-grazing sheep at 12 sites in Marsabit County, northern Kenya. 
+      We screened blood and ticks (858 pools) from 296 camels and 77 sheep for
+      bacterial and protozoan TBPs by high-resolution melting analysis and sequencing
+      of PCR products. Hyalomma (75.7%), Amblyomma (17.6%) and Rhipicephalus (6.7%)
+      spp. ticks were morphologically identified and confirmed by molecular analyses.
+      We detected TBP DNA in 80.1% of blood samples from 296 healthy camels.
+      "Candidatus Anaplasma camelii", "Candidatus Ehrlichia regneryi" and Coxiella
+      burnetii were detected in both camels and associated ticks, and Ehrlichia
+      chaffeensis, Rickettsia africae, Rickettsia aeschlimannii and Coxiella
+      endosymbionts were detected in camel ticks. We also detected Ehrlichia
+      ruminantium, which is responsible for heartwater disease in ruminants, in
+      Amblyomma ticks infesting camels and sheep and in sheep blood, indicating its
+      endemicity in Marsabit. Our findings also suggest that camels and/or the ticks
+      infesting them are disease reservoirs of zoonotic Q fever (C. burnetii),
+      ehrlichiosis (E. chaffeensis) and rickettsiosis (R. africae), which pose public
+      health threats to pastoralist communities.
+FAU - Getange, Dennis
+AU  - Getange D
+AD  - International Centre of Insect Physiology and Ecology (icipe), Nairobi P.O. Box
+      30772-00100, Kenya.
+AD  - Department of Biochemistry, Jomo Kenyatta University of Agriculture and
+      Technology, Nairobi P.O. Box 62000-00200, Kenya.
+FAU - Bargul, Joel L
+AU  - Bargul JL
+AD  - International Centre of Insect Physiology and Ecology (icipe), Nairobi P.O. Box
+      30772-00100, Kenya.
+AD  - Department of Biochemistry, Jomo Kenyatta University of Agriculture and
+      Technology, Nairobi P.O. Box 62000-00200, Kenya.
+FAU - Kanduma, Esther
+AU  - Kanduma E
+AUID- ORCID: 0000-0002-4979-2681
+AD  - Department of Biochemistry, School of Medicine, University of Nairobi, Nairobi
+      P.O. Box 30197-00100, Kenya.
+FAU - Collins, Marisol
+AU  - Collins M
+AD  - Institute of Infection, Veterinary and Ecological Sciences, University of
+      Liverpool, Liverpool L3 5RF, UK.
+FAU - Bodha, Boku
+AU  - Bodha B
+AD  - Directorate of Veterinary Services, County Government of Marsabit, Marsabit P.O. 
+      Box 384-60500, Kenya.
+FAU - Denge, Diba
+AU  - Denge D
+AD  - Directorate of Veterinary Services, County Government of Marsabit, Marsabit P.O. 
+      Box 384-60500, Kenya.
+FAU - Chiuya, Tatenda
+AU  - Chiuya T
+AD  - International Centre of Insect Physiology and Ecology (icipe), Nairobi P.O. Box
+      30772-00100, Kenya.
+FAU - Githaka, Naftaly
+AU  - Githaka N
+AD  - International Livestock Research Institute, Nairobi P.O. Box 30709-00100, Kenya.
+FAU - Younan, Mario
+AU  - Younan M
+AD  - Food and Agriculture Organization of the United Nations (FAO), Programme &
+      Operational Support to Syria Crisis, UN cross-border hub, Gaziantep 27010,
+      Turkey.
+FAU - Fevre, Eric M
+AU  - Fevre EM
+AUID- ORCID: 0000-0001-8931-4986
+AD  - Institute of Infection, Veterinary and Ecological Sciences, University of
+      Liverpool, Liverpool L3 5RF, UK.
+AD  - International Livestock Research Institute, Nairobi P.O. Box 30709-00100, Kenya.
+FAU - Bell-Sakyi, Lesley
+AU  - Bell-Sakyi L
+AUID- ORCID: 0000-0002-7305-0477
+AD  - Institute of Infection, Veterinary and Ecological Sciences, University of
+      Liverpool, Liverpool L3 5RF, UK.
+FAU - Villinger, Jandouwe
+AU  - Villinger J
+AUID- ORCID: 0000-0002-5097-6605
+AD  - International Centre of Insect Physiology and Ecology (icipe), Nairobi P.O. Box
+      30772-00100, Kenya.
+LA  - eng
+GR  - NUF/ NRF-BBSRC CALL 1/1/02/Kenya's National Research Fund (NRF)
+GR  - BB/P024378/1/BB_/Biotechnology and Biological Sciences Research Council/United
+      Kingdom
+GR  - BB/L019019/1/BB_/Biotechnology and Biological Sciences Research Council/United
+      Kingdom
+GR  - DEL-15-011/DELTAS Africa Initiative
+GR  - Newton-Utafiti Fund project BB/S004890/1/BB_/Biotechnology and Biological
+      Sciences Research Council/United Kingdom
+GR  - 107742/Z/15/Z/WT_/Wellcome Trust/United Kingdom
+GR  - BB/P024270/1/BB_/Biotechnology and Biological Sciences Research Council/United
+      Kingdom
+PT  - Journal Article
+DEP - 20210630
+PL  - Switzerland
+TA  - Microorganisms
+JT  - Microorganisms
+JID - 101625893
+PMC - PMC8306667
+OTO - NOTNLM
+OT  - Anaplasma
+OT  - Coxiella
+OT  - Ehrlichia
+OT  - Rickettsia
+OT  - dromedary camels
+OT  - heartwater
+OT  - tick-borne pathogens
+OT  - ticks
+OT  - zoonosis
+EDAT- 2021/07/03 06:00
+MHDA- 2021/07/03 06:01
+CRDT- 2021/07/02 01:37
+PHST- 2021/06/04 00:00 [received]
+PHST- 2021/06/21 00:00 [revised]
+PHST- 2021/06/22 00:00 [accepted]
+PHST- 2021/07/02 01:37 [entrez]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/07/03 06:01 [medline]
+AID - microorganisms9071414 [pii]
+AID - 10.3390/microorganisms9071414 [doi]
+PST - epublish
+SO  - Microorganisms. 2021 Jun 30;9(7). pii: microorganisms9071414. doi:
+      10.3390/microorganisms9071414.
+
+PMID- 34010302
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211007
+LR  - 20211007
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 16
+IP  - 5
+DP  - 2021
+TI  - Climatic change and extinction risk of two globally threatened Ethiopian endemic 
+      bird species.
+PG  - e0249633
+LID - 10.1371/journal.pone.0249633 [doi]
+AB  - Climate change is having profound effects on the distributions of species
+      globally. Trait-based assessments predict that specialist and range-restricted
+      species are among those most likely to be at risk of extinction from such
+      changes. Understanding individual species' responses to climate change is
+      therefore critical for informing conservation planning. We use an established
+      Species Distribution Modelling (SDM) protocol to describe the curious
+      range-restriction of the globally threatened White-tailed Swallow (Hirundo
+      megaensis) to a small area in southern Ethiopia. We find that, across a range of 
+      modelling approaches, the distribution of this species is well described by two
+      climatic variables, maximum temperature and dry season precipitation. These same 
+      two variables have been previously found to limit the distribution of the
+      unrelated but closely sympatric Ethiopian Bush-crow (Zavattariornis stresemanni).
+      We project the future climatic suitability for both species under a range of
+      climate scenarios and modelling approaches. Both species are at severe risk of
+      extinction within the next half century, as the climate in 68-84% (for the
+      swallow) and 90-100% (for the bush-crow) of their current ranges is predicted to 
+      become unsuitable. Intensive conservation measures, such as assisted migration
+      and captive-breeding, may be the only options available to safeguard these two
+      species. Their projected disappearance in the wild offers an opportunity to test 
+      the reliability of SDMs for predicting the fate of wild species. Monitoring
+      future changes in the distribution and abundance of the bush-crow is particularly
+      tractable because its nests are conspicuous and visible over large distances.
+FAU - Bladon, Andrew J
+AU  - Bladon AJ
+AUID- ORCID: 0000-0002-2677-1247
+AD  - Conservation Science Group, Department of Zoology, University of Cambridge,
+      Cambridge, United Kingdom.
+FAU - Donald, Paul F
+AU  - Donald PF
+AD  - Conservation Science Group, Department of Zoology, University of Cambridge,
+      Cambridge, United Kingdom.
+AD  - BirdLife International, Cambridge, United Kingdom.
+AD  - RSPB Centre for Conservation Science, RSPB, The Lodge, Sandy, Bedfordshire,
+      United Kingdom.
+FAU - Collar, Nigel J
+AU  - Collar NJ
+AD  - BirdLife International, Cambridge, United Kingdom.
+FAU - Denge, Jarso
+AU  - Denge J
+AD  - Borana National Park Authority, Yabello, Oromiya, Ethiopia.
+FAU - Dadacha, Galgalo
+AU  - Dadacha G
+AD  - Borana National Park Authority, Yabello, Oromiya, Ethiopia.
+FAU - Wondafrash, Mengistu
+AU  - Wondafrash M
+AD  - Ethiopian Wildlife and Natural History Society, Bole Sub City, Addis Ababa,
+      Ethiopia.
+FAU - Green, Rhys E
+AU  - Green RE
+AD  - Conservation Science Group, Department of Zoology, University of Cambridge,
+      Cambridge, United Kingdom.
+AD  - RSPB Centre for Conservation Science, RSPB, The Lodge, Sandy, Bedfordshire,
+      United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210519
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Animal Distribution
+MH  - Animals
+MH  - *Climate Change
+MH  - Crows/*physiology
+MH  - Ecosystem
+MH  - Endangered Species/*trends
+MH  - Ethiopia
+MH  - Models, Statistical
+MH  - Swallows/*physiology
+PMC - PMC8133463
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2021/05/20 06:00
+MHDA- 2021/10/08 06:00
+CRDT- 2021/05/19 17:35
+PHST- 2020/12/24 00:00 [received]
+PHST- 2021/03/23 00:00 [accepted]
+PHST- 2021/05/19 17:35 [entrez]
+PHST- 2021/05/20 06:00 [pubmed]
+PHST- 2021/10/08 06:00 [medline]
+AID - 10.1371/journal.pone.0249633 [doi]
+AID - PONE-D-20-40516 [pii]
+PST - epublish
+SO  - PLoS One. 2021 May 19;16(5):e0249633. doi: 10.1371/journal.pone.0249633.
+      eCollection 2021.
+
+PMID- 33347834
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1531-5053 (Electronic)
+IS  - 0278-2391 (Linking)
+VI  - 79
+IP  - 5
+DP  - 2021 May
+TI  - Comparison of Maxillofacial Fractures Between Pedestrians and Passengers in Road 
+      Traffic Accidents.
+PG  - 1098-1103
+LID - S0278-2391(20)31412-9 [pii]
+LID - 10.1016/j.joms.2020.11.022 [doi]
+AB  - PURPOSE: Road traffic accidents remain as the most common cause of maxillofacial 
+      injuries in developed countries. To the best of our knowledge, comparative
+      analysis of fracture localizations and injury types of injured pedestrians and
+      passengers is seldom performed. Thus, this study aimed to compare maxillofacial
+      injuries between pedestrians and passengers injured in road traffic accidents in 
+      terms of demographic characteristics of the patients, localization of fractures, 
+      and treatment. MATERIALS AND METHODS: The study population was composed of
+      patients who underwent surgery for maxillofacial fractures resulting from road
+      traffic accidents. They were divided into the pedestrian group and passenger
+      group. Demographic data, fracture sites, and treatment methods were investigated 
+      retrospectively. RESULTS: Most of the patients were 20 to 30 years of age.
+      Isolated mandible fractures occurred in 55.71% of the pedestrian group and 43.78%
+      of the passenger group. Panfacial fractures were observed in 5.71% (n = 8) of the
+      patients in the pedestrian group compared with 14.28% (n = 21) in the passenger
+      group. CONCLUSIONS: Based on the injury pattern and mechanism of in-vehicle
+      accidents, fractures tend to be located in the middle and upper facial bones
+      rather than in the mandible. Thus, careful management in triage is important, as 
+      each group has specific injury patterns. Patients with panfacial fractures
+      require meticulous management because they are at risk for high-energy injury and
+      comorbidities.
+CI  - Copyright (c) 2020 American Association of Oral and Maxillofacial Surgeons.
+      Published by Elsevier Inc. All rights reserved.
+FAU - Altuntas, Zeynep
+AU  - Altuntas Z
+AD  - Associate Professor, Department of Plastic Reconstructive and Aesthetic Surgery, 
+      Necmettin Erbakan University Meram Faculty of Medicine, Konya, Turkey.
+FAU - Ismayilzade, Majid
+AU  - Ismayilzade M
+AD  - Resident, Department of Plastic Reconstructive and Aesthetic Surgery, Necmettin
+      Erbakan University Meram Faculty of Medicine, Konya, Turkey. Electronic address: 
+      mecidismayilzade@hotmail.com.
+FAU - Basturk, Funda
+AU  - Basturk F
+AD  - Private Practitioner, Private Hospital Denge Dent Oral and Dental Health Clinic, 
+      Konya.
+LA  - eng
+PT  - Journal Article
+DEP - 20201126
+PL  - United States
+TA  - J Oral Maxillofac Surg
+JT  - Journal of oral and maxillofacial surgery : official journal of the American
+      Association of Oral and Maxillofacial Surgeons
+JID - 8206428
+SB  - IM
+MH  - Accidents, Traffic
+MH  - Humans
+MH  - Mandible
+MH  - *Maxillofacial Injuries/epidemiology/surgery
+MH  - *Pedestrians
+MH  - Retrospective Studies
+EDAT- 2020/12/22 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2020/12/21 20:10
+PHST- 2020/10/09 00:00 [received]
+PHST- 2020/11/19 00:00 [revised]
+PHST- 2020/11/19 00:00 [accepted]
+PHST- 2020/12/22 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+PHST- 2020/12/21 20:10 [entrez]
+AID - S0278-2391(20)31412-9 [pii]
+AID - 10.1016/j.joms.2020.11.022 [doi]
+PST - ppublish
+SO  - J Oral Maxillofac Surg. 2021 May;79(5):1098-1103. doi:
+      10.1016/j.joms.2020.11.022. Epub 2020 Nov 26.
+
+PMID- 33233978
+OWN - NLM
+STAT- Publisher
+LR  - 20210902
+IS  - 1476-4954 (Electronic)
+IS  - 1476-4954 (Linking)
+DP  - 2020 Nov 24
+TI  - Maternal infection and stillbirth: a review.
+PG  - 1-9
+LID - 10.1080/14767058.2020.1852206 [doi]
+AB  - Introduction: Maternal infections likely are an important cause of stillbirths,
+      especially in sub-Saharan Africa and south Asia, where the burden is highest. Due
+      to the lack of routine testing for infection, which can be complex and often
+      expensive, the prevalence of infection during pregnancy and the association of
+      many infections with stillbirth are not well-documented, especially in
+      low-resource countries.Methods: Following an extensive literature review of
+      infection and stillbirth initially published in 2010, we conducted a review of
+      literature in the last 10 years to identify infections associated with
+      stillbirth, focused on those in low-resource settings.Results: During the last 10
+      years, over 40 bacterial, viral and other pathogens have been associated with
+      stillbirth. Newly emerging viral infections such as Denge as well as several
+      well-established, but not yet eliminated infections such as rubella have been
+      associated with stillbirth. Two of the maternal infections most strongly
+      associated with stillbirth, each with about a 2-fold risk, are malaria and
+      syphilis but others have been associated with risk in a range of studies. With a 
+      lack of routine antenatal screening, many pathogens are identified as associated 
+      with stillbirth only through case reports. Infection remains an important, yet
+      understudied, cause of stillbirth.Conclusion: Research studies to determine
+      definitive associations between various infections and stillbirth are important
+      to better understand the role of infections and strategies to reduce
+      infection-related stillbirth.Summary This review explores the association between
+      infections and stillbirths focusing on low-income country studies published in
+      the last 10 years. Much information about these relationships comes from case
+      reports. Research resulting in a better understanding of the causes and
+      strategies to reduce infection-related stillbirth is necessary.
+FAU - McClure, Elizabeth M
+AU  - McClure EM
+AD  - RTI International, Durham, NC, USA.
+FAU - Silver, Robert M
+AU  - Silver RM
+AD  - Department of Obstetrics and Gynecology, University of Utah School of Medicine,
+      Salt Lake City, UT, USA.
+FAU - Kim, Jean
+AU  - Kim J
+AD  - RTI International, Durham, NC, USA.
+FAU - Ahmed, Imran
+AU  - Ahmed I
+AD  - Department of Community Health Sciences, Aga Khan University, Karachi, Pakistan.
+FAU - Kallapur, Mangala
+AU  - Kallapur M
+AD  - JJM Medical College, Davangere, India.
+FAU - Ghanchi, Najia
+AU  - Ghanchi N
+AD  - Department of Community Health Sciences, Aga Khan University, Karachi, Pakistan.
+FAU - Nagmoti, Mahantesh B
+AU  - Nagmoti MB
+AD  - KLE Academy of Higher Education and Research, Jawaharlal Nehru Medical College,
+      Belagavi, India.
+FAU - Dhaded, Sangappa
+AU  - Dhaded S
+AD  - KLE Academy of Higher Education and Research, Jawaharlal Nehru Medical College,
+      Belagavi, India.
+FAU - Aceituno, Anna
+AU  - Aceituno A
+AD  - RTI International, Durham, NC, USA.
+FAU - Tikmani, Shiyam Sunder
+AU  - Tikmani SS
+AD  - Department of Community Health Sciences, Aga Khan University, Karachi, Pakistan.
+FAU - Saleem, Sarah
+AU  - Saleem S
+AD  - Department of Community Health Sciences, Aga Khan University, Karachi, Pakistan.
+FAU - Guruprasad, Gowder
+AU  - Guruprasad G
+AD  - JJM Medical College, Davangere, India.
+FAU - Goudar, Shivaprasad S
+AU  - Goudar SS
+AD  - KLE Academy of Higher Education and Research, Jawaharlal Nehru Medical College,
+      Belagavi, India.
+FAU - Goldenberg, Robert L
+AU  - Goldenberg RL
+AD  - Department of Obstetrics and Gynecology, Columbia University, New York, NY, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20201124
+PL  - England
+TA  - J Matern Fetal Neonatal Med
+JT  - The journal of maternal-fetal & neonatal medicine : the official journal of the
+      European Association of Perinatal Medicine, the Federation of Asia and Oceania
+      Perinatal Societies, the International Society of Perinatal Obstetricians
+JID - 101136916
+SB  - IM
+OTO - NOTNLM
+OT  - Stillbirth;
+OT  - infection;
+OT  - low/middle-income countries;
+EDAT- 2020/11/26 06:00
+MHDA- 2020/11/26 06:00
+CRDT- 2020/11/25 05:30
+PHST- 2020/11/26 06:00 [pubmed]
+PHST- 2020/11/26 06:00 [medline]
+PHST- 2020/11/25 05:30 [entrez]
+AID - 10.1080/14767058.2020.1852206 [doi]
+PST - aheadofprint
+SO  - J Matern Fetal Neonatal Med. 2020 Nov 24:1-9. doi: 10.1080/14767058.2020.1852206.
+
+PMID- 28025932
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170731
+LR  - 20180327
+IS  - 1097-6817 (Electronic)
+IS  - 0194-5998 (Linking)
+VI  - 156
+IP  - 3
+DP  - 2017 Mar
+TI  - Thyroid Surgery in a Resource-Limited Setting.
+PG  - 464-471
+LID - 10.1177/0194599816684097 [doi]
+AB  - Objective The present study reviews a series of patients who underwent thyroid
+      surgery in Eldoret, Kenya, to demonstrate the feasibility of conducting long-term
+      (>1 year) outcomes research in a resource-limited setting, impact on the quality 
+      of life of the recipient population, and inform future humanitarian
+      collaborations. Study Design Case series with chart review. Setting Tertiary
+      public referral hospital in Eldoret, Kenya. Subjects and Methods Twenty-one
+      patients were enrolled during the study period. A retrospective chart review was 
+      performed for all adult patients who underwent thyroid surgery during
+      humanitarian trips (2010-2015). Patients were contacted by mobile telephone.
+      Medical history and physical examination, including laryngoscopy, were performed,
+      and the SF-36 was administered (a quality-of-life questionnaire). Laboratory
+      measurements of thyroid function and neck ultrasound were obtained. Results The
+      mean follow-up was 33.6 +/- 20.2 months after surgery: 37.5% of subtotal
+      thyroidectomy patients and 15.4% of lobectomy patients were hypothyroid
+      postoperatively according to serologic studies. There were no cases of goiter
+      recurrence or malignancy. All patients reported postoperative symptomatic
+      improvement and collectively showed positive pre- and postoperative score
+      differences on the SF-36. Conclusion Although limited by a small sample size and 
+      the retrospective nature, our study demonstrates the feasibility of long-term
+      surgical and quality-of-life outcomes research in a resource-limited setting. The
+      low complication rates suggest minimal adverse effects of performing surgery in
+      this context. Despite a considerable rate of postoperative hypothyroidism, it is 
+      in accordance with prior studies and emphasizes the need for individualized,
+      longitudinal, and multidisciplinary care. Quality-of-life score improvements
+      suggest benefit to the recipient population.
+FAU - Jafari, Aria
+AU  - Jafari A
+AD  - 1 Division of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+      University of California San Diego, San Diego, California, USA.
+FAU - Campbell, David
+AU  - Campbell D
+AD  - 2 Department of Otolaryngology and Communication Sciences, Medical College of
+      Wisconsin, Milwaukee, Wisconsin, USA.
+FAU - Campbell, Bruce H
+AU  - Campbell BH
+AD  - 3 Division of Head and Neck Oncology and Reconstruction, Department of
+      Otolaryngology and Communication Sciences, Medical College of Wisconsin,
+      Milwaukee, Wisconsin, USA.
+FAU - Ngoitsi, Henry Nono
+AU  - Ngoitsi HN
+AD  - 4 Department of Otolaryngology-Head and Neck Surgery, Moi Teaching and Referral
+      Hospital, Eldoret, Kenya.
+FAU - Sisenda, Titus M
+AU  - Sisenda TM
+AD  - 4 Department of Otolaryngology-Head and Neck Surgery, Moi Teaching and Referral
+      Hospital, Eldoret, Kenya.
+AD  - 5 School of Medicine, Moi Teaching and Referral Hospital, Eldoret, Kenya.
+FAU - Denge, Makaya
+AU  - Denge M
+AD  - 4 Department of Otolaryngology-Head and Neck Surgery, Moi Teaching and Referral
+      Hospital, Eldoret, Kenya.
+FAU - James, Benjamin C
+AU  - James BC
+AD  - 6 Department of Surgery, Indiana University School of Medicine, Indianapolis,
+      Indiana, USA.
+FAU - Cordes, Susan R
+AU  - Cordes SR
+AD  - 6 Department of Surgery, Indiana University School of Medicine, Indianapolis,
+      Indiana, USA.
+AD  - 7 Department of Otolaryngology-Head and Neck Surgery, Ukiah Valley Medical
+      Center, Ukiah, California, USA.
+LA  - eng
+GR  - T32 DC000028/DC/NIDCD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20161227
+PL  - England
+TA  - Otolaryngol Head Neck Surg
+JT  - Otolaryngology--head and neck surgery : official journal of American Academy of
+      Otolaryngology-Head and Neck Surgery
+JID - 8508176
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Feasibility Studies
+MH  - Female
+MH  - Health Resources
+MH  - Humans
+MH  - Kenya
+MH  - Male
+MH  - Middle Aged
+MH  - Postoperative Complications/epidemiology
+MH  - Relief Work
+MH  - Retrospective Studies
+MH  - *Thyroidectomy
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *global health
+OT  - *humanitarian
+OT  - *quality of life
+OT  - *resource limited
+OT  - *thyroid
+OT  - *thyroidectomy
+EDAT- 2016/12/28 06:00
+MHDA- 2017/08/02 06:00
+CRDT- 2016/12/28 06:00
+PHST- 2016/12/28 06:00 [pubmed]
+PHST- 2017/08/02 06:00 [medline]
+PHST- 2016/12/28 06:00 [entrez]
+AID - 10.1177/0194599816684097 [doi]
+PST - ppublish
+SO  - Otolaryngol Head Neck Surg. 2017 Mar;156(3):464-471. doi:
+      10.1177/0194599816684097. Epub 2016 Dec 27.
+
+PMID- 15747868
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050623
+LR  - 20191210
+IS  - 0507-4088 (Print)
+IS  - 0507-4088 (Linking)
+VI  - 50
+IP  - 1
+DP  - 2005 Jan-Feb
+TI  - [Residual neurovirulence of the chimera of Langat and Denge-4 flaviviruses in
+      intracerebral infection of monkeys].
+PG  - 27-31
+AB  - The residual neurovirulence of the previously obtained chimeric virus Tp21/DEN4, 
+      containing the RNA region encoding the pre M and E structural enzymes, strain
+      Tp21, virus Langat, and the remaining part of the genome from the Denge 4 virus, 
+      was studied in experiments with monkeys Cercopithecus aethiops involving the
+      intracerebral administration of the virus. The tick-borne encephalitis virus,
+      strain Absettarov, was used as positive control. A comparative analysis of the
+      experimental and published data showed the chimeric virus to be less virulent by 
+      its degree of morphological affection in the CNS zones, its spread into the CNS
+      and by a percentage share of animals with viremia versus the Tp21 parent strain
+      and Elantsev strain of the Langat virus.
+FAU - Karganova, G G
+AU  - Karganova GG
+FAU - Pripuzova, N S
+AU  - Pripuzova NS
+FAU - Tereshkina, N V
+AU  - Tereshkina NV
+FAU - Gmyl', L V
+AU  - Gmyl' LV
+FAU - Dzhivanian, T I
+AU  - Dzhivanian TI
+FAU - Rumiantsev, A A
+AU  - Rumiantsev AA
+FAU - Lashkevich, V A
+AU  - Lashkevich VA
+LA  - rus
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Russia (Federation)
+TA  - Vopr Virusol
+JT  - Voprosy virusologii
+JID - 0417337
+SB  - IM
+MH  - Animals
+MH  - Central Nervous System Infections/*pathology/virology
+MH  - Chlorocebus aethiops
+MH  - Dengue Virus/genetics/*pathogenicity
+MH  - Encephalitis Viruses, Tick-Borne/genetics/*pathogenicity
+MH  - Flavivirus Infections/*pathology/virology
+MH  - *Reassortant Viruses/pathogenicity
+MH  - Viremia
+MH  - Virulence
+MH  - Virus Replication
+EDAT- 2005/03/08 09:00
+MHDA- 2005/06/24 09:00
+CRDT- 2005/03/08 09:00
+PHST- 2005/03/08 09:00 [pubmed]
+PHST- 2005/06/24 09:00 [medline]
+PHST- 2005/03/08 09:00 [entrez]
+PST - ppublish
+SO  - Vopr Virusol. 2005 Jan-Feb;50(1):27-31.

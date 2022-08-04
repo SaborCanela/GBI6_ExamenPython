@@ -57,6 +57,7 @@ def map_science(tipo):
             zip_count.append(zipcodes.count(z))
     import matplotlib.pyplot as plt
     #%matplotlib inline
+    fig = plt.figure()
     plt.scatter(zip_long, zip_lat, s = zip_count, c= zip_count)
     plt.colorbar()
 # only continental us without Alaska
@@ -79,4 +80,5 @@ def map_science(tipo):
     params = plt.gcf()
     plSize = params.get_size_inches()
     params.set_size_inches( (plSize[0] * 3, plSize[1] * 3) )
+    fig.savefig("img/mapas.jpg")
     return plt.show()
